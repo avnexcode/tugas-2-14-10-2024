@@ -1,8 +1,6 @@
 # Pemrograman API
 
-## Tugas 2 - Deskripsi Judul
-
-Tanggal: 14 Oktober 2024
+## Tugas 2 - Tanggal: 14 Oktober 2024
 
 ### Deskripsi
 Tugas ini bertujuan untuk mendalami konsep dan implementasi API (Application Programming Interface) dalam pemrograman. Kami akan belajar bagaimana cara membuat, mengelola, dan berinteraksi dengan API untuk membangun aplikasi yang dapat berkomunikasi dengan layanan lain.
