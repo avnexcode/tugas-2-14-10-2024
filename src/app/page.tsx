@@ -1,11 +1,11 @@
-import { AlQuranFilters, AlQuranPagination, AlQuranTable } from "@/components/fragments/al-quran";
-import { Container } from "@/components/layouts";
+import { AlQuranFilters, AlQuranTable } from "@/components/fragments/al-quran";
+import { MainLayout } from "@/components/layouts";
 import AnimatedShinyText from "@/components/ui/animated-shiny-text";
 import GridPattern from "@/components/ui/grid-pattern";
 
 export default function HomePage() {
   return (
-    <Container className="pt-10">
+    <MainLayout>
       <header className="flex justify-center items-center py-4">
         <AnimatedShinyText className="text-5xl font-semibold">
           Ayahs Al - Quran
@@ -14,13 +14,10 @@ export default function HomePage() {
       <nav className="flex justify-end items-center py-4">
         <AlQuranFilters />
       </nav>
-      <main className="flex flex-col gap-y-10">
+      <main>
         <AlQuranTable />
-        <div>
-          <AlQuranPagination />
-        </div>
       </main>
       <GridPattern className="absolute inset-0 -z-10" />
-    </Container>
+    </MainLayout>
   )
 }
