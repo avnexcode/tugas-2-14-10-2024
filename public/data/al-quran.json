@@ -1,0 +1,1028 @@
+[
+    {
+        "surah_number": 1,
+        "surah_name": "Al-Fatihah",
+        "english_name": "The Opening",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 7,
+        "order_of_revelation": 5,
+        "meaning": "Pembukaan"
+    },
+    {
+        "surah_number": 2,
+        "surah_name": "Al-Baqarah",
+        "english_name": "The Cow",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 286,
+        "order_of_revelation": 87,
+        "meaning": "Sapi Betina"
+    },
+    {
+        "surah_number": 3,
+        "surah_name": "Ali 'Imran",
+        "english_name": "The Family of Imran",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 200,
+        "order_of_revelation": 89,
+        "meaning": "Keluarga Imran"
+    },
+    {
+        "surah_number": 4,
+        "surah_name": "An-Nisa",
+        "english_name": "The Women",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 176,
+        "order_of_revelation": 92,
+        "meaning": "Wanita"
+    },
+    {
+        "surah_number": 5,
+        "surah_name": "Al-Ma'idah",
+        "english_name": "The Table Spread",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 120,
+        "order_of_revelation": 112,
+        "meaning": "Hidangan"
+    },
+    {
+        "surah_number": 6,
+        "surah_name": "Al-An'am",
+        "english_name": "The Cattle",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 165,
+        "order_of_revelation": 55,
+        "meaning": "Binatang Ternak"
+    },
+    {
+        "surah_number": 7,
+        "surah_name": "Al-A'raf",
+        "english_name": "The Heights",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 206,
+        "order_of_revelation": 39,
+        "meaning": "Tempat yang Tinggi"
+    },
+    {
+        "surah_number": 8,
+        "surah_name": "Al-Anfal",
+        "english_name": "The Spoils of War",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 75,
+        "order_of_revelation": 88,
+        "meaning": "Rampasan Perang"
+    },
+    {
+        "surah_number": 9,
+        "surah_name": "At-Tawbah",
+        "english_name": "The Repentance",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 129,
+        "order_of_revelation": 113,
+        "meaning": "Pengampunan"
+    },
+    {
+        "surah_number": 10,
+        "surah_name": "Yunus",
+        "english_name": "Jonah",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 109,
+        "order_of_revelation": 51,
+        "meaning": "Nabi Yunus"
+    },
+    {
+        "surah_number": 11,
+        "surah_name": "Hud",
+        "english_name": "Hud",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 123,
+        "order_of_revelation": 52,
+        "meaning": "Nabi Hud"
+    },
+    {
+        "surah_number": 12,
+        "surah_name": "Yusuf",
+        "english_name": "Joseph",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 111,
+        "order_of_revelation": 53,
+        "meaning": "Nabi Yusuf"
+    },
+    {
+        "surah_number": 13,
+        "surah_name": "Ar-Ra'd",
+        "english_name": "The Thunder",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 43,
+        "order_of_revelation": 96,
+        "meaning": "Guruh"
+    },
+    {
+        "surah_number": 14,
+        "surah_name": "Ibrahim",
+        "english_name": "Abraham",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 52,
+        "order_of_revelation": 72,
+        "meaning": "Nabi Ibrahim"
+    },
+    {
+        "surah_number": 15,
+        "surah_name": "Al-Hijr",
+        "english_name": "The Rocky Tract",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 99,
+        "order_of_revelation": 54,
+        "meaning": "Batu-batu Gunung"
+    },
+    {
+        "surah_number": 16,
+        "surah_name": "An-Nahl",
+        "english_name": "The Bee",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 128,
+        "order_of_revelation": 70,
+        "meaning": "Lebah"
+    },
+    {
+        "surah_number": 17,
+        "surah_name": "Al-Isra",
+        "english_name": "The Night Journey",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 111,
+        "order_of_revelation": 50,
+        "meaning": "Perjalanan Malam"
+    },
+    {
+        "surah_number": 18,
+        "surah_name": "Al-Kahf",
+        "english_name": "The Cave",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 110,
+        "order_of_revelation": 69,
+        "meaning": "Gua"
+    },
+    {
+        "surah_number": 19,
+        "surah_name": "Maryam",
+        "english_name": "Mary",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 98,
+        "order_of_revelation": 44,
+        "meaning": "Maryam"
+    },
+    {
+        "surah_number": 20,
+        "surah_name": "Ta-Ha",
+        "english_name": "Ta-Ha",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 135,
+        "order_of_revelation": 45,
+        "meaning": "Ta Ha"
+    },
+    {
+        "surah_number": 21,
+        "surah_name": "Al-Anbiya",
+        "english_name": "The Prophets",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 112,
+        "order_of_revelation": 73,
+        "meaning": "Para Nabi"
+    },
+    {
+        "surah_number": 22,
+        "surah_name": "Al-Hajj",
+        "english_name": "The Pilgrimage",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 78,
+        "order_of_revelation": 103,
+        "meaning": "Ibadah Haji"
+    },
+    {
+        "surah_number": 23,
+        "surah_name": "Al-Mu'minun",
+        "english_name": "The Believers",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 118,
+        "order_of_revelation": 74,
+        "meaning": "Orang-orang Mukmin"
+    },
+    {
+        "surah_number": 24,
+        "surah_name": "An-Nur",
+        "english_name": "The Light",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 64,
+        "order_of_revelation": 102,
+        "meaning": "Cahaya"
+    },
+    {
+        "surah_number": 25,
+        "surah_name": "Al-Furqan",
+        "english_name": "The Criterion",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 77,
+        "order_of_revelation": 42,
+        "meaning": "Pembeda"
+    },
+    {
+        "surah_number": 26,
+        "surah_name": "Ash-Shu'ara",
+        "english_name": "The Poets",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 227,
+        "order_of_revelation": 47,
+        "meaning": "Para Penyair"
+    },
+    {
+        "surah_number": 27,
+        "surah_name": "An-Naml",
+        "english_name": "The Ant",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 93,
+        "order_of_revelation": 48,
+        "meaning": "Semut"
+    },
+    {
+        "surah_number": 28,
+        "surah_name": "Al-Qasas",
+        "english_name": "The Stories",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 88,
+        "order_of_revelation": 49,
+        "meaning": "Kisah-kisah"
+    },
+    {
+        "surah_number": 29,
+        "surah_name": "Al-Ankabut",
+        "english_name": "The Spider",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 69,
+        "order_of_revelation": 85,
+        "meaning": "Laba-laba"
+    },
+    {
+        "surah_number": 30,
+        "surah_name": "Ar-Rum",
+        "english_name": "The Romans",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 60,
+        "order_of_revelation": 84,
+        "meaning": "Bangsa Romawi"
+    },
+    {
+        "surah_number": 31,
+        "surah_name": "Luqman",
+        "english_name": "Luqman",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 34,
+        "order_of_revelation": 57,
+        "meaning": "Luqman"
+    },
+    {
+        "surah_number": 32,
+        "surah_name": "As-Sajda",
+        "english_name": "The Prostration",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 30,
+        "order_of_revelation": 75,
+        "meaning": "Sujud"
+    },
+    {
+        "surah_number": 33,
+        "surah_name": "Al-Ahzab",
+        "english_name": "The Combined Forces",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 73,
+        "order_of_revelation": 90,
+        "meaning": "Golongan yang Bersekutu"
+    },
+    {
+        "surah_number": 34,
+        "surah_name": "Saba'",
+        "english_name": "Sheba",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 54,
+        "order_of_revelation": 58,
+        "meaning": "Kaum Saba'"
+    },
+    {
+        "surah_number": 35,
+        "surah_name": "Fatir",
+        "english_name": "The Originator",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 45,
+        "order_of_revelation": 43,
+        "meaning": "Pencipta"
+    },
+    {
+        "surah_number": 36,
+        "surah_name": "Ya-Sin",
+        "english_name": "Ya-Sin",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 83,
+        "order_of_revelation": 41,
+        "meaning": "Ya Sin"
+    },
+    {
+        "surah_number": 37,
+        "surah_name": "As-Saffat",
+        "english_name": "The Ranks",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 182,
+        "order_of_revelation": 56,
+        "meaning": "Barisan"
+    },
+    {
+        "surah_number": 38,
+        "surah_name": "Sad",
+        "english_name": "The Letter Sad",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 88,
+        "order_of_revelation": 38,
+        "meaning": "Huruf Sad"
+    },
+    {
+        "surah_number": 39,
+        "surah_name": "Az-Zumar",
+        "english_name": "The Groups",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 75,
+        "order_of_revelation": 59,
+        "meaning": "Rombongan"
+    },
+    {
+        "surah_number": 40,
+        "surah_name": "Ghafir",
+        "english_name": "The Forgiver",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 85,
+        "order_of_revelation": 60,
+        "meaning": "Yang Maha Pengampun"
+    },
+    {
+        "surah_number": 41,
+        "surah_name": "Fussilat",
+        "english_name": "Explained in Detail",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 54,
+        "order_of_revelation": 61,
+        "meaning": "Yang Dijelaskan"
+    },
+    {
+        "surah_number": 42,
+        "surah_name": "Ash-Shura",
+        "english_name": "The Consultation",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 53,
+        "order_of_revelation": 62,
+        "meaning": "Musyawarah"
+    },
+    {
+        "surah_number": 43,
+        "surah_name": "Az-Zukhruf",
+        "english_name": "The Gold Adornments",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 89,
+        "order_of_revelation": 63,
+        "meaning": "Perhiasan Emas"
+    },
+    {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhan",
+        "english_name": "The Smoke",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 59,
+        "order_of_revelation": 64,
+        "meaning": "Kabut"
+    },
+    {
+        "surah_number": 45,
+        "surah_name": "Al-Jathiya",
+        "english_name": "The Crouching",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 37,
+        "order_of_revelation": 65,
+        "meaning": "Yang Berlutut"
+    },
+    {
+        "surah_number": 46,
+        "surah_name": "Al-Ahqaf",
+        "english_name": "The Wind-Curved Sandhills",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 35,
+        "order_of_revelation": 66,
+        "meaning": "Bukit-bukit Pasir"
+    },
+    {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "english_name": "Muhammad",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 38,
+        "order_of_revelation": 95,
+        "meaning": "Muhammad"
+    },
+    {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "english_name": "The Victory",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 29,
+        "order_of_revelation": 111,
+        "meaning": "Kemenangan"
+    },
+    {
+        "surah_number": 49,
+        "surah_name": "Al-Hujurat",
+        "english_name": "The Rooms",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 18,
+        "order_of_revelation": 106,
+        "meaning": "Kamar-kamar"
+    },
+    {
+        "surah_number": 50,
+        "surah_name": "Qaf",
+        "english_name": "The Letter Qaf",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 45,
+        "order_of_revelation": 34,
+        "meaning": "Huruf Qaf"
+    },
+    {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhariyat",
+        "english_name": "The Winnowing Winds",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 60,
+        "order_of_revelation": 67,
+        "meaning": "Angin yang Menerbangkan"
+    },
+    {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "english_name": "The Mount",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 49,
+        "order_of_revelation": 76,
+        "meaning": "Bukit"
+    },
+    {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "english_name": "The Star",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 62,
+        "order_of_revelation": 23,
+        "meaning": "Bintang"
+    },
+    {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "english_name": "The Moon",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 55,
+        "order_of_revelation": 37,
+        "meaning": "Bulan"
+    },
+    {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahman",
+        "english_name": "The Beneficent",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 78,
+        "order_of_revelation": 97,
+        "meaning": "Yang Maha Pemurah"
+    },
+    {
+        "surah_number": 56,
+        "surah_name": "Al-Waqi'a",
+        "english_name": "The Event",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 96,
+        "order_of_revelation": 46,
+        "meaning": "Hari Kiamat"
+    },
+    {
+        "surah_number": 57,
+        "surah_name": "Al-Hadid",
+        "english_name": "The Iron",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 29,
+        "order_of_revelation": 94,
+        "meaning": "Besi"
+    },
+    {
+        "surah_number": 58,
+        "surah_name": "Al-Mujadila",
+        "english_name": "The Pleading Woman",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 22,
+        "order_of_revelation": 105,
+        "meaning": "Wanita yang Mengajukan Gugatan"
+    },
+    {
+        "surah_number": 59,
+        "surah_name": "Al-Hashr",
+        "english_name": "The Exile",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 24,
+        "order_of_revelation": 101,
+        "meaning": "Pengusiran"
+    },
+    {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahina",
+        "english_name": "She That is to be Examined",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 13,
+        "order_of_revelation": 91,
+        "meaning": "Wanita yang Diuji"
+    },
+    {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "english_name": "The Ranks",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 14,
+        "order_of_revelation": 109,
+        "meaning": "Barisan"
+    },
+    {
+        "surah_number": 62,
+        "surah_name": "Al-Jumu'a",
+        "english_name": "The Congregation, Friday",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 11,
+        "order_of_revelation": 110,
+        "meaning": "Hari Jumat"
+    },
+    {
+        "surah_number": 63,
+        "surah_name": "Al-Munafiqun",
+        "english_name": "The Hypocrites",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 11,
+        "order_of_revelation": 104,
+        "meaning": "Orang-orang Munafik"
+    },
+    {
+        "surah_number": 64,
+        "surah_name": "At-Taghabun",
+        "english_name": "The Mutual Disillusion",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 18,
+        "order_of_revelation": 108,
+        "meaning": "Hari Dinampakkan Kesalahan-kesalahan"
+    },
+    {
+        "surah_number": 65,
+        "surah_name": "At-Talaq",
+        "english_name": "The Divorce",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 12,
+        "order_of_revelation": 99,
+        "meaning": "Talak"
+    },
+    {
+        "surah_number": 66,
+        "surah_name": "At-Tahrim",
+        "english_name": "The Prohibition",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 12,
+        "order_of_revelation": 107,
+        "meaning": "Pengharaman"
+    },
+    {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "english_name": "The Sovereignty",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 30,
+        "order_of_revelation": 77,
+        "meaning": "Kerajaan"
+    },
+    {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "english_name": "The Pen",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 52,
+        "order_of_revelation": 2,
+        "meaning": "Pena"
+    },
+    {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "english_name": "The Reality",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 52,
+        "order_of_revelation": 78,
+        "meaning": "Hari Kiamat"
+    },
+    {
+        "surah_number": 70,
+        "surah_name": "Al-Ma'arij",
+        "english_name": "The Ascending Stairways",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 44,
+        "order_of_revelation": 79,
+        "meaning": "Tempat-tempat Naik"
+    },
+    {
+        "surah_number": 71,
+        "surah_name": "Nuh",
+        "english_name": "Noah",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 28,
+        "order_of_revelation": 71,
+        "meaning": "Nuh"
+    },
+    {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "english_name": "The Jinn",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 28,
+        "order_of_revelation": 40,
+        "meaning": "Jin"
+    },
+    {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "english_name": "The Enshrouded One",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 20,
+        "order_of_revelation": 3,
+        "meaning": "Orang yang Berselimut"
+    },
+    {
+        "surah_number": 74,
+        "surah_name": "Al-Muddathir",
+        "english_name": "The Cloaked One",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 56,
+        "order_of_revelation": 4,
+        "meaning": "Orang yang Berselimut"
+    },
+    {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyama",
+        "english_name": "The Resurrection",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 40,
+        "order_of_revelation": 31,
+        "meaning": "Hari Kebangkitan"
+    },
+    {
+        "surah_number": 76,
+        "surah_name": "Al-Insan",
+        "english_name": "Man",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 31,
+        "order_of_revelation": 98,
+        "meaning": "Manusia"
+    },
+    {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalat",
+        "english_name": "The Emissaries",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 50,
+        "order_of_revelation": 33,
+        "meaning": "Malaikat-malaikat yang Diutus"
+    },
+    {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "english_name": "The Tidings",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 40,
+        "order_of_revelation": 80,
+        "meaning": "Berita Besar"
+    },
+    {
+        "surah_number": 79,
+        "surah_name": "An-Nazi'at",
+        "english_name": "Those who drag forth",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 46,
+        "order_of_revelation": 81,
+        "meaning": "Malaikat-malaikat yang Mencabut"
+    },
+    {
+        "surah_number": 80,
+        "surah_name": "Abasa",
+        "english_name": "He frowned",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 42,
+        "order_of_revelation": 24,
+        "meaning": "Ia Bermuka Masam"
+    },
+    {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "english_name": "The Overthrowing",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 29,
+        "order_of_revelation": 7,
+        "meaning": "Menggulung"
+    },
+    {
+        "surah_number": 82,
+        "surah_name": "Al-Infitar",
+        "english_name": "The Cleaving",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 19,
+        "order_of_revelation": 82,
+        "meaning": "Terbelah"
+    },
+    {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "english_name": "Defrauding",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 36,
+        "order_of_revelation": 86,
+        "meaning": "Orang-orang yang Curang"
+    },
+    {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaq",
+        "english_name": "The Splitting Open",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 25,
+        "order_of_revelation": 83,
+        "meaning": "Terbelah"
+    },
+    {
+        "surah_number": 85,
+        "surah_name": "Al-Buruj",
+        "english_name": "The Mansions of the Stars",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 22,
+        "order_of_revelation": 27,
+        "meaning": "Gugusan Bintang"
+    },
+    {
+        "surah_number": 86,
+        "surah_name": "At-Tariq",
+        "english_name": "The Morning Star",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 17,
+        "order_of_revelation": 36,
+        "meaning": "Bintang yang Terbit"
+    },
+    {
+        "surah_number": 87,
+        "surah_name": "Al-Ala",
+        "english_name": "The Most High",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 19,
+        "order_of_revelation": 8,
+        "meaning": "Yang Maha Tinggi"
+    },
+    {
+        "surah_number": 88,
+        "surah_name": "Al-Ghashiyah",
+        "english_name": "The Overwhelming",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 26,
+        "order_of_revelation": 68,
+        "meaning": "Hari Pembalasan"
+    },
+    {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "english_name": "The Dawn",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 30,
+        "order_of_revelation": 10,
+        "meaning": "Fajar"
+    },
+    {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "english_name": "The City",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 20,
+        "order_of_revelation": 35,
+        "meaning": "Negeri"
+    },
+    {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "english_name": "The Sun",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 15,
+        "order_of_revelation": 26,
+        "meaning": "Matahari"
+    },
+    {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "english_name": "The Night",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 21,
+        "order_of_revelation": 9,
+        "meaning": "Malam"
+    },
+    {
+        "surah_number": 93,
+        "surah_name": "Ad-Duha",
+        "english_name": "The Morning Hours",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 11,
+        "order_of_revelation": 11,
+        "meaning": "Waktu Dhuha"
+    },
+    {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "english_name": "The Relief",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 8,
+        "order_of_revelation": 12,
+        "meaning": "Melapangkan"
+    },
+    {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "english_name": "The Fig",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 8,
+        "order_of_revelation": 28,
+        "meaning": "Buah Tin"
+    },
+    {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "english_name": "The Clot",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 19,
+        "order_of_revelation": 1,
+        "meaning": "Segumpal Darah"
+    },
+    {
+        "surah_number": 97,
+        "surah_name": "Al-Qadr",
+        "english_name": "The Power",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 5,
+        "order_of_revelation": 25,
+        "meaning": "Kemuliaan"
+    },
+    {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "english_name": "The Clear Proof",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 8,
+        "order_of_revelation": 100,
+        "meaning": "Bukti yang Nyata"
+    },
+    {
+        "surah_number": 99,
+        "surah_name": "Az-Zalzalah",
+        "english_name": "The Earthquake",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 8,
+        "order_of_revelation": 93,
+        "meaning": "Goncangan"
+    },
+    {
+        "surah_number": 100,
+        "surah_name": "Al-Adiyat",
+        "english_name": "The Courser",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 11,
+        "order_of_revelation": 14,
+        "meaning": "Kuda Perang yang Berlari Kencang"
+    },
+    {
+        "surah_number": 101,
+        "surah_name": "Al-Qariah",
+        "english_name": "The Calamity",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 11,
+        "order_of_revelation": 30,
+        "meaning": "Hari Kiamat"
+    },
+    {
+        "surah_number": 102,
+        "surah_name": "At-Takathur",
+        "english_name": "The Rivalry in World Increase",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 8,
+        "order_of_revelation": 16,
+        "meaning": "Bermegah-megahan"
+    },
+    {
+        "surah_number": 103,
+        "surah_name": "Al-Asr",
+        "english_name": "The Declining Day",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 3,
+        "order_of_revelation": 13,
+        "meaning": "Masa"
+    },
+    {
+        "surah_number": 104,
+        "surah_name": "Al-Humazah",
+        "english_name": "The Traducer",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 9,
+        "order_of_revelation": 32,
+        "meaning": "Pengumpat"
+    },
+    {
+        "surah_number": 105,
+        "surah_name": "Al-Fil",
+        "english_name": "The Elephant",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 5,
+        "order_of_revelation": 19,
+        "meaning": "Gajah"
+    },
+    {
+        "surah_number": 106,
+        "surah_name": "Quraish",
+        "english_name": "Quraish",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 4,
+        "order_of_revelation": 29,
+        "meaning": "Suku Quraisy"
+    },
+    {
+        "surah_number": 107,
+        "surah_name": "Al-Ma'un",
+        "english_name": "The Small Kindnesses",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 7,
+        "order_of_revelation": 17,
+        "meaning": "Barang-barang yang Berguna"
+    },
+    {
+        "surah_number": 108,
+        "surah_name": "Al-Kawthar",
+        "english_name": "The Abundance",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 3,
+        "order_of_revelation": 15,
+        "meaning": "Nikmat yang Berlimpah"
+    },
+    {
+        "surah_number": 109,
+        "surah_name": "Al-Kafirun",
+        "english_name": "The Disbelievers",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 6,
+        "order_of_revelation": 18,
+        "meaning": "Orang-orang Kafir"
+    },
+    {
+        "surah_number": 110,
+        "surah_name": "An-Nasr",
+        "english_name": "The Divine Support",
+        "revelation_type": "Medinan",
+        "number_of_ayahs": 3,
+        "order_of_revelation": 114,
+        "meaning": "Pertolongan"
+    },
+    {
+        "surah_number": 111,
+        "surah_name": "Al-Masad",
+        "english_name": "The Palm Fiber",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 5,
+        "order_of_revelation": 6,
+        "meaning": "Sabut"
+    },
+    {
+        "surah_number": 112,
+        "surah_name": "Al-Ikhlas",
+        "english_name": "The Sincerity",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 4,
+        "order_of_revelation": 22,
+        "meaning": "Ikhlas"
+    },
+    {
+        "surah_number": 113,
+        "surah_name": "Al-Falaq",
+        "english_name": "The Daybreak",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 5,
+        "order_of_revelation": 20,
+        "meaning": "Waktu Subuh"
+    },
+    {
+        "surah_number": 114,
+        "surah_name": "An-Nas",
+        "english_name": "The Mankind",
+        "revelation_type": "Meccan",
+        "number_of_ayahs": 6,
+        "order_of_revelation": 21,
+        "meaning": "Manusia"
+    }
+]

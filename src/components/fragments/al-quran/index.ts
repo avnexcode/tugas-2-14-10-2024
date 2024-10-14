@@ -1,0 +1,6 @@
+export * from './AlQuranTable'
+export * from './AlQuranTableCaption'
+export * from './AlQuranTableHead'
+export * from './AlQuranTableItem'
+export * from './AlQuranFilters'
+export * from './AlQuranPagination'
