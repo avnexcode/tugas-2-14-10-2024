@@ -1,15 +1,15 @@
 import alquran from '../../../public/data/al-quran.json'
 
-export const findAll = async (filters: { name?: string, revelation?: string }, page: number = 1, limit: number = 10) => {
+export const findMany = async (filters: { name?: string, revelation?: string }, page: number = 1, limit: number = 10) => {
     let filteredData = alquran;
 
     if (filters.name) {
-        filteredData = filteredData.filter(surah => 
+        filteredData = filteredData.filter(surah =>
             surah.surah_name.toLowerCase().includes(filters.name!.toLowerCase())
         );
     }
     if (filters.revelation) {
-        filteredData = filteredData.filter(surah => 
+        filteredData = filteredData.filter(surah =>
             surah.revelation_type.toLowerCase() === filters.revelation?.toLowerCase()
         );
     }
@@ -31,6 +31,24 @@ export const findAll = async (filters: { name?: string, revelation?: string }, p
             total_surahs,
             total_ayahs,
             total_pages: Math.ceil(totalFilteredSurahs / limit)
+        }
+    }
+}
+
+
+export const findOne = async (id: string) => {
+    const surah = alquran.find(surah => surah.surah_number.toString() === id);
+
+    if (!surah) throw new Error('Surah not found');
+
+    const total_ayahs = alquran.reduce((total, s) => total + s.number_of_ayahs, 0)
+    const total_surahs = alquran.length
+
+    return {
+        data: surah,
+        meta: {
+            total_surahs,
+            total_ayahs
         }
     }
 }

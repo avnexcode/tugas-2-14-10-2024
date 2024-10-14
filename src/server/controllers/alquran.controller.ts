@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import * as service from '../services/alquran.service'
+import * as Service from '../services/alquran.service'
+import * as middleware from "@/middlewares";
 
 export const GET = async (req: NextRequest) => {
     try {
@@ -14,7 +15,7 @@ export const GET = async (req: NextRequest) => {
         }
 
         const filters = { name, revelation };
-        const data = await service.getAll(filters, page, limit);
+        const data = await Service.getAll(filters, page, limit);
 
         return NextResponse.json({
             status: true,
@@ -23,15 +24,32 @@ export const GET = async (req: NextRequest) => {
             data
         });
     } catch (error) {
-        console.error('Error in GET request:', error);
-        
-        const statusCode = error instanceof Error && error.message === 'Invalid page or limit parameter' ? 400 : 500;
-        
+        return middleware.handleError(error)
+    }
+}
+
+export const GETID = async (req: NextRequest, { params }: { params: { id: string } }) => {
+    try {
+        const { id } = params
+
+        if (!id) {
+            throw new Error('ID parameter is required');
+        }
+
+        const data = await Service.getByID(id);
+
+        if (!data) {
+            throw new Error('Data not found');
+        }
+
         return NextResponse.json({
-            status: false,
-            statusCode,
-            message: error instanceof Error ? error.message : 'Unknown error occurred',
-            stack: process.env.NEXT_PUBLIC_ENV === 'production' ? '🥞' : error instanceof Error ? error.stack : 'No stack trace available',
-        }, { status: statusCode });
+            status: true,
+            statusCode: 200,
+            message: 'Successfully retrieved data by ID',
+            data
+        });
+
+    } catch (error) {
+        return middleware.handleError(error)
     }
 }
